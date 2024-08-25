@@ -109,8 +109,7 @@ body{
     text-align: center;
     padding-right: 50px;
     background-color: rgb(186, 221, 231);
-    display: flex;
-    justify-content: space-between;
+   
 }
 .links,
 .link{
